@@ -1,0 +1,5 @@
+com\example\repositories\PromotionRepositoryTest.class
+com\example\repositories\CartRepositoryTest.class
+com\example\repositories\BookRepositoryTest.class
+com\example\repositories\UserRepositoryTest.class
+com\example\repositories\OrderRepositoryTest.class

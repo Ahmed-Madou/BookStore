@@ -1,0 +1,11 @@
+com\example\repositories\PromotionRepository.class
+com\example\DemoApplication.class
+com\example\repositories\UserRepository.class
+com\example\domain\User.class
+com\example\repositories\BookRepository.class
+com\example\domain\Order.class
+com\example\domain\Promotion.class
+com\example\repositories\CartRepository.class
+com\example\domain\Cart.class
+com\example\repositories\OrderRepository.class
+com\example\domain\Book.class
