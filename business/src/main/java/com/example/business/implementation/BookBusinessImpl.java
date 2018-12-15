@@ -1,8 +1,7 @@
 package com.example.business.implementation;
 
 import com.example.business.interfaces.BookBusiness;
-import com.example.domain.Book;
-import com.example.domain.User;
+import com.example.domain.*;
 import com.example.repositories.BookRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;

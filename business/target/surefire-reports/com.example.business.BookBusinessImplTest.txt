@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.example.business.BookBusinessImplTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.109 s - in com.example.business.BookBusinessImplTest
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.521 s <<< FAILURE! - in com.example.business.BookBusinessImplTest
+initializationError(com.example.business.BookBusinessImplTest)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Lcom/example/domain/User;
+Caused by: java.lang.ClassNotFoundException: com.example.domain.User
+
